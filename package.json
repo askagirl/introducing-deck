@@ -13,5 +13,17 @@
     "@nearform/deck-skin": "^1.0.0"
   },
   "author": "David Mark Clements",
-  "license": "Attribution-ShareAlike 4.0 International"
+  "license": "Attribution-ShareAlike 4.0 International",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidmarkclements/introducing-deck.git"
+  },
+  "bugs": {
+    "url": "https://github.com/davidmarkclements/introducing-deck/issues"
+  },
+  "homepage": "https://github.com/davidmarkclements/introducing-deck#readme"
 }
