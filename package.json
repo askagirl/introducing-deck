@@ -1,0 +1,17 @@
+{
+  "name": "introducing-deck-deck",
+  "version": "1.0.0",
+  "skin": "@nearform/deck-skin",
+  "files": [
+    "Readme.md",
+    "deck.md",
+    "images",
+    "code"
+  ],
+  "dependencies": {
+    "@deck/present": "^1.1.0",
+    "@nearform/deck-skin": "^1.0.0"
+  },
+  "author": "David Mark Clements",
+  "license": "Attribution-ShareAlike 4.0 International"
+}
